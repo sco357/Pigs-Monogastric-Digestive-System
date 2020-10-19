@@ -1,0 +1,73 @@
+header {
+  		background-color: #FF00B5;
+  		text-align: center;
+  		padding-top: 50px;
+  		padding-bottom: 50px;
+  		margin: 0;
+  	}
+body
+ 	{
+ 		background-color:#F9D5EF;
+ 		margin: 0;
+ 		text-align: center;
+ 	}
+ main
+ {
+ 	background-color: #F9D5EF;
+ 	max-width: 800px;
+ 	margin: 0 auto;
+ 	text-align: center;
+ 	padding: 30px;
+ }
+ footer
+ {
+ 	background-color: #C2CBE1;
+  		text-align: center;
+  		padding-top: 25;
+  		padding-bottom: 25px;
+ }
+ header img
+ {
+ 	border-radius: 170px;
+ 	width: 300px;
+ 	border: 10px solid #F9E0DA;
+ }
+
+.title
+	{
+		font-family:'Oswald';color:#FF00B5;font-size:30px;font-style:normal;text-align: center; line-height: 30px;
+	} 
+.stitle
+	{
+		font-family:'Oswald';color:orange;font-size:30px;font-style:normal;text-align: left;padding-left: 10px;line-height: 30px;padding-bottom: 0px;
+	} 
+.normal
+	{
+		font-family:'Dosis', sans-serif;color:black;font-size:20px;font-style:normal;text-align: center;padding-left: 10px;padding-right: 10px;line-height: 30px;padding-top: 1px;
+	} 
+.Head
+	{
+		font-family:'Oswald';color:#F9E0DA;font-size:60px;font-style:normal;text-align:center;line-height: 30px;
+	} 
+.list
+	{
+		font-family:Candara;color:black;font-size:20px;font-style:normal;text-align: left;
+	} 
+.caption
+	{
+		font-family:Candara;color:grey;font-size:15px;font-style:italic;text-align: center;padding-left: 10px;padding-right: 10px;line-height: 30px;
+		margin-top: 0;
+	} 
+a
+{
+	color: #a632a8;
+	font-family:Candara;
+	line-height: 30px;
+}
+a:hover{
+	color: white;
+	background-color:#FB5A34; 
+}
+
+
+
